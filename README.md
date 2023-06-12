@@ -3,8 +3,8 @@
 
 Senior-Care Dashboard is a web application built with React.js that provides a comprehensive dashboard for managing senior care. It includes features such as tracking daily medicines, managing health information, and an issue tracker for addressing any concerns or problems related to senior care.
 
-![AgeWell1](C:\Users\sushant\Desktop\Kratin-Assignment\AgeWell\src\images\AgeWell1.jpg)
-![AgeWell2](C:\Users\sushant\Desktop\Kratin-Assignment\AgeWell\src\images\AgeWell2.jpg)
+![AgeWell1](./src/images/AgeWell1.jpg)
+![AgeWell2](./src/images/AgeWell2.jpg)
 
 ## Features
 

@@ -14,7 +14,7 @@ Senior-Care Dashboard is a web application built with React.js that provides a c
 
 - **Issue Tracker**: The Issue Tracker feature provides a platform to report and track issues related to senior care. Caregivers, family members, or healthcare professionals can submit issues, including descriptions, severity levels, and assigned personnel. This feature facilitates efficient communication and problem-solving, ensuring that any concerns or problems are promptly addressed and resolved.
 
-- **Alarm**: (Provide a brief description of the Alarm feature if applicable)
+- **Alarm**: Provides a daily reminder of things that need to be remembered which can be set by user.
 
 ## How Senior-Care Dashboard Benefits Older Adults
 
